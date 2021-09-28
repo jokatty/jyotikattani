@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @jokatty
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning full-stack development
-- 💞️ I’m looking to collaborate on webApp projects.
+- 👋 Hi, I’m Jo.
+- 🌱 I’m a Software Engineer.
+- 💞️ I’m looking to collaborate on web application projects.
 - 📫 How to reach me ...https://www.linkedin.com/in/jo-jyoti/
 
 <!---
